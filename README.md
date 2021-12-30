@@ -1,6 +1,7 @@
 ### Into
 Auction app with JAVA RMI using `dynamic Load`, the first goal is to implement the following features :
-![](/home/hamza/Data/Distributed_Sys/TPs/TP2/app/modeling.png)
+
+![modeling](https://github.com/khyarihamza1/auction_app/blob/main/modeling.png)
 
 ### Contribute
-clone the project, make changes and let's grow together
+Clone the project, make changes and let's grow together
